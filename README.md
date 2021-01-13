@@ -1,18 +1,18 @@
 # Using Drones as Reference Sensors for Neural-Networks-Based Modeling of Automotive Perception Errors
 
-This repository holds additional figures to the mentioned [IEEE IV](https://ieee-iv.org/) 2020 publication, which is available at:
-- arXiv: Link will be included.
-- IEEEXplore: Link will be included.
+This repository holds additional figures to the mentioned [IEEE IV](https://ieee-iv.org/) 2020 publication, which is available at IEEEXplore: https://ieeexplore.ieee.org/document/9304615
 
 ![Paper front page](PaperFrontpageSnippet.PNG)
 
 To cite the following graphics, please cite the paper itself. It includes a link to this repository. Bibtex:
 ```
 @InProceedings{Krajewski2020UsingDrones,
-  author    = {Krajewski, Robert and Hoss, Michael and Meister, Adrian and Thomsen, Fabian and Bock, Julian and Eckstein, Lutz},
-  booktitle = {2020 IEEE Intelligent Vehicles Symposium (IV)},
-  title     = {Using Drones as Reference Sensors for Neural-Networks-Based Modeling of Automotive Perception Errors},
-  year      = {2020},
+  author={R. {Krajewski} and M. {Hoss} and A. {Meister} and F. {Thomsen} and J. {Bock} and L. {Eckstein}},
+  booktitle={2020 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={Using Drones as Reference Sensors for Neural-Networks-Based Modeling of Automotive Perception Errors}, 
+  year={2020},
+  pages={708-715},
+  doi={10.1109/IV47402.2020.9304615}}
 }
 ```
 
